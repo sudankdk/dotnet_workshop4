@@ -1,0 +1,15 @@
+/home/sudankdk/RiderProjects/workshop4/task6/bin/Debug/net9.0/task6
+/home/sudankdk/RiderProjects/workshop4/task6/bin/Debug/net9.0/task6.deps.json
+/home/sudankdk/RiderProjects/workshop4/task6/bin/Debug/net9.0/task6.runtimeconfig.json
+/home/sudankdk/RiderProjects/workshop4/task6/bin/Debug/net9.0/task6.dll
+/home/sudankdk/RiderProjects/workshop4/task6/bin/Debug/net9.0/task6.pdb
+/home/sudankdk/RiderProjects/workshop4/task6/obj/Debug/net9.0/task6.GeneratedMSBuildEditorConfig.editorconfig
+/home/sudankdk/RiderProjects/workshop4/task6/obj/Debug/net9.0/task6.AssemblyInfoInputs.cache
+/home/sudankdk/RiderProjects/workshop4/task6/obj/Debug/net9.0/task6.AssemblyInfo.cs
+/home/sudankdk/RiderProjects/workshop4/task6/obj/Debug/net9.0/task6.csproj.CoreCompileInputs.cache
+/home/sudankdk/RiderProjects/workshop4/task6/obj/Debug/net9.0/task6.sourcelink.json
+/home/sudankdk/RiderProjects/workshop4/task6/obj/Debug/net9.0/task6.dll
+/home/sudankdk/RiderProjects/workshop4/task6/obj/Debug/net9.0/refint/task6.dll
+/home/sudankdk/RiderProjects/workshop4/task6/obj/Debug/net9.0/task6.pdb
+/home/sudankdk/RiderProjects/workshop4/task6/obj/Debug/net9.0/task6.genruntimeconfig.cache
+/home/sudankdk/RiderProjects/workshop4/task6/obj/Debug/net9.0/ref/task6.dll
