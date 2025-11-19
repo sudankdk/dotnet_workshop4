@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sudankdk/RiderProjects/workshop4/workshop4/workshop4.csproj",
+      "projectUniqueName": "/home/sudankdk/RiderProjects/workshop4/task1/task1.csproj",
       "projectName": "Task1",
-      "projectPath": "/home/sudankdk/RiderProjects/workshop4/workshop4/workshop4.csproj",
+      "projectPath": "/home/sudankdk/RiderProjects/workshop4/task1/task1.csproj",
       "packagesPath": "/home/sudankdk/.nuget/packages/",
-      "outputPath": "/home/sudankdk/RiderProjects/workshop4/workshop4/obj/",
+      "outputPath": "/home/sudankdk/RiderProjects/workshop4/task1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/sudankdk/.nuget/NuGet/NuGet.Config"
