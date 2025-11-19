@@ -1,0 +1,14 @@
+/home/sudankdk/RiderProjects/workshop4/workshop4/obj/Debug/net9.0/workshop4.GeneratedMSBuildEditorConfig.editorconfig
+/home/sudankdk/RiderProjects/workshop4/workshop4/obj/Debug/net9.0/workshop4.AssemblyInfoInputs.cache
+/home/sudankdk/RiderProjects/workshop4/workshop4/obj/Debug/net9.0/workshop4.AssemblyInfo.cs
+/home/sudankdk/RiderProjects/workshop4/workshop4/obj/Debug/net9.0/workshop4.csproj.CoreCompileInputs.cache
+/home/sudankdk/RiderProjects/workshop4/workshop4/bin/Debug/net9.0/workshop4
+/home/sudankdk/RiderProjects/workshop4/workshop4/bin/Debug/net9.0/workshop4.deps.json
+/home/sudankdk/RiderProjects/workshop4/workshop4/bin/Debug/net9.0/workshop4.runtimeconfig.json
+/home/sudankdk/RiderProjects/workshop4/workshop4/bin/Debug/net9.0/workshop4.dll
+/home/sudankdk/RiderProjects/workshop4/workshop4/bin/Debug/net9.0/workshop4.pdb
+/home/sudankdk/RiderProjects/workshop4/workshop4/obj/Debug/net9.0/workshop4.dll
+/home/sudankdk/RiderProjects/workshop4/workshop4/obj/Debug/net9.0/refint/workshop4.dll
+/home/sudankdk/RiderProjects/workshop4/workshop4/obj/Debug/net9.0/workshop4.pdb
+/home/sudankdk/RiderProjects/workshop4/workshop4/obj/Debug/net9.0/workshop4.genruntimeconfig.cache
+/home/sudankdk/RiderProjects/workshop4/workshop4/obj/Debug/net9.0/ref/workshop4.dll
